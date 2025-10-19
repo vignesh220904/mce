@@ -1,0 +1,4 @@
+project_id = "hgjtbenylrxtkfjmqvir"
+
+[functions.generate-learning-suggestions]
+verify_jwt = true
