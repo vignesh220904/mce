@@ -26,26 +26,6 @@ Live Demo: https://Mce-ai.vercel.app
 - Version Control: Git & GitHub
 
 
-📁 Project Structure
-
-
-
-MCE-AI/
-├─ public/           # Static assets like images, icons, fonts
-├─ src/              # Source code
-│  ├─ components/    # Reusable components (React / UI elements)
-│  ├─ pages/         # Web pages (Next.js routing)
-│  └─ styles/        # CSS / SCSS files
-├─ .gitignore        # Git ignore rules
-├─ package.json      # Node.js / npm dependencies
-├─ README.md         # Project documentation
-└─ vercel.json       # Vercel deployment settings
-
-
-
-
-
-⚡ Getting Started
 
 Prerequisites:
 - Node.js (v16+)
