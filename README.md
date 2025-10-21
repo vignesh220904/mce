@@ -17,17 +17,18 @@ Live Demo: https://Mce-ai.vercel.app
 - Modern UI/UX for intuitive navigation.
 - Scalable architecture for future AI features.
 
-==================================================================
+
 🛠️ Technologies Used
-==================================================================
+
 - Frontend: HTML5, CSS3, JavaScript
 - Build Tool: Vite
 - Hosting: Vercel
 - Version Control: Git & GitHub
 
-==================================================================
+
 📁 Project Structure
-==================================================================
+
+
 MCE-AI/
 ├─ public/          # Static assets like images, icons, fonts
 ├─ src/             # Source code
