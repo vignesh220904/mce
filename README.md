@@ -29,18 +29,20 @@ Live Demo: https://Mce-ai.vercel.app
 📁 Project Structure
 
 
+
 MCE-AI/
-├─ public/          # Static assets like images, icons, fonts
-├─ src/             # Source code
-│  ├─ assets/       # Images, SVGs, other media
-│  ├─ components/   # Reusable components
-│  ├─ pages/        # Web pages (if using SPA routing)
-│  └─ styles/       # CSS or SCSS files
-├─ .gitignore       # Git ignore rules
-├─ package.json     # Node.js / npm dependencies
-├─ vite.config.js   # Vite configuration
-├─ README.txt       # Project documentation
-└─ index.html       # Main HTML entry point
+├─ public/           # Static assets like images, icons, fonts
+├─ src/              # Source code
+│  ├─ components/    # Reusable components (React / UI elements)
+│  ├─ pages/         # Web pages (Next.js routing)
+│  └─ styles/        # CSS / SCSS files
+├─ .gitignore        # Git ignore rules
+├─ package.json      # Node.js / npm dependencies
+├─ README.md         # Project documentation
+└─ vercel.json       # Vercel deployment settings
+
+
+
 
 
 ⚡ Getting Started
